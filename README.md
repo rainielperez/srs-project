@@ -1,1 +1,1 @@
-Software Design project for CPE304/304L
+Software Design Project for CPE304/304L
